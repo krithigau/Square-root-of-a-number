@@ -18,14 +18,13 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by:U KRITHIGA 
+RegisterNumber:23006499  
 */
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
+![Alt text](<SQ NO.png>)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
