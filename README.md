@@ -21,6 +21,11 @@ Program to find the square root for the given number(newton's method) using func
 Developed by:U KRITHIGA 
 RegisterNumber:23006499  
 */
+def SR():
+    b=int(input())
+    x=0.5*((b**0.5)+b/(b**0.5))
+    return x
+print('Square root of the number:',SR())
 ```
 
 ## Output:
